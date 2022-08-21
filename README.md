@@ -4,7 +4,7 @@ Text adventure created during the first year of university for basics of program
 The game is randomized dungeon crawler text adventure game with a few bugs. 
 All files are required to play the game.
 
-Original version which uses .NET sdk 3.0 version have been moved to branch named as `original`.
+The original version, which uses .NET sdk 3.0, has been moved to the branch named as `original`.
 
 Master branch contains version that uses .NET sdk 5.0.
 
@@ -12,7 +12,7 @@ Be sure to install .NET library. To check if you have .NET installed use `dotnet
 
 Run the program using `dotnet run`.
 
-What you should see when program runs properly.
+What you should see when program runs properly:
 ```
 __________                                         __________                              .__    .___ __________        .__    .___
 \______   \ _______  __ ___________  ______ ____   \______   \___.__.____________    _____ |__| __| _/ \______   \_____  |__| __| _/
