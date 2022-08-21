@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AbrVwdvn7FMAlXJKUMKVNa/sHw0lQqfWiSfjKHCjnsOkr+/WOclyrltjEm8NX1B6mw7cNegp1ucA1aGcfcHS4g==",
+  "dgSpecHash": "a+cBWsGD6jxOtaS9BSpL6yUqKAUWPo0rRj/jNYAClQlq/N210958ql64NZnB9odgReXUeMuMYSvqq+L0vSIecA==",
   "success": true,
-  "projectFilePath": "F:\\Koulu\\moocit\\devopsWithDocker\\part01\\exercises\\part1-ex-15\\Climb\\ClimbRebuild\\Loppuprojekti.csproj",
+  "projectFilePath": "F:\\Koulu\\moocit\\devopsWithDocker\\part01\\exercises\\part1-ex-15\\Climb\\NewClimb\\Loppuprojekti.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

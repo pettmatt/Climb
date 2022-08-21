@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Koulu\\moocit\\devopsWithDocker\\part01\\exercises\\part1-ex-15\\Climb\\ClimbRebuild\\Loppuprojekti.csproj",
+      "projectUniqueName": "F:\\Koulu\\moocit\\devopsWithDocker\\part01\\exercises\\part1-ex-15\\Climb\\NewClimb\\Loppuprojekti.csproj",
       "projectName": "Loppuprojekti",
-      "projectPath": "F:\\Koulu\\moocit\\devopsWithDocker\\part01\\exercises\\part1-ex-15\\Climb\\ClimbRebuild\\Loppuprojekti.csproj",
+      "projectPath": "F:\\Koulu\\moocit\\devopsWithDocker\\part01\\exercises\\part1-ex-15\\Climb\\NewClimb\\Loppuprojekti.csproj",
       "packagesPath": "C:\\Users\\peksu\\.nuget\\packages\\",
-      "outputPath": "F:\\Koulu\\moocit\\devopsWithDocker\\part01\\exercises\\part1-ex-15\\Climb\\ClimbRebuild\\obj\\",
+      "outputPath": "F:\\Koulu\\moocit\\devopsWithDocker\\part01\\exercises\\part1-ex-15\\Climb\\NewClimb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peksu\\AppData\\Roaming\\NuGet\\NuGet.Config"
