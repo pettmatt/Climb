@@ -14,6 +14,8 @@ Master branch contains version that uses .NET sdk 5.0.
 
 The master branch includes a version with a build version which provides a hassle-free way to launch the game from `\bin\Release\net5.0`. Just launch the game through `Loppuprojekti.exe`-file.
 
+The application can also run with Docker. [Link to the docker hub page](https://hub.docker.com/r/pettmatt/climb)
+
 ## Run with .NET
 
 Be sure to install .NET library. To check if you have .NET installed use `dotnet --version` command in terminal.
